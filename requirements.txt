@@ -1,0 +1,7 @@
+langchain-community
+langchain-google-genai
+langchain-huggingface
+langchain-core
+flask
+PyPDF2
+python-dotenv
