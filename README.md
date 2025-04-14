@@ -15,6 +15,7 @@ How it works:
 •	Rubric Selection: Students can choose from pre-defined rubrics (e.g., IELTS, TOEFL) or upload custom rubrics created by their teachers.
 •	Essay Evaluation: The rubric tool analyses the student's essay against the selected rubric's criteria.
 •	Feedback Generation: Based on the analysis, Chat Scholar provides feedback on the essay's strengths and areas for improvement, highlighting specific criteria met or not met.
+
 Key Inputs: 
 For this particular project, we would need the below key inputs:
 •	Chat Scholar
@@ -89,16 +90,6 @@ Receive detailed feedback
    - Submit essay text or file
    - Review scored results
 
-## Requirements
-- Python 3.8+
-- Google API key
-- Required packages in requirements.txt
-
-## Support
-For assistance with:
-- File processing → Ensure text-based PDFs
-- AI responses → Verify API configuration
-- System performance → Check hardware specs
 
 ## Product Report:
 Chat Scholar represents a significant step towards leveraging AI to create a more engaging and effective learning experience for students, empowering them to excel in their academic pursuits.
